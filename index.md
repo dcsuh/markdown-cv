@@ -1,53 +1,67 @@
 ---
+title: ""
 layout: cv
-title: Isaac Newtons's CV
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Daniel C. Suh
+Doctoral Candidate in Ecology
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="daniel.suh@uga.edu">daniel.suh@uga.edu</a>
+<!-- | <a href="dcsuh.github.io">My page</a> -->
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Studying disease ecology at the Odum School of Ecology, University of Georgia
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Biodiversity-disease relationships, parasite generalism, macroecology, mathematical modeling of infectious diseases
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+**`2019 - Present`**
+__Odum School of Ecology, University of Georgia, Athens GA - Ph.D. Ecology__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+**`2012-2016`**
+__Seaver College, Pepperdine University, Malibu CA - B.S. Biology__
 
 
+## Research Experience
 
-## Awards
+**`August 2019 - Present`**
+Odum School of Ecology, UGA, Athens GA, *Graduate Student*
 
-`2012`
-President, *Royal Society*, London, UK
+**`April 2018 - June 2019`**
+Department of Biostatistics, Epidemiology, and Informatics, University of Pennsylvania, Philadelphia PA, *Research Assistant*
 
-Associate, *French Academy of Science*, Paris, France
+**`August 2016 - October 2016`**
+Natural Science Division, Pepperdine University, Malibu CA, *Research Assistant*
+
+**`May 2016 - August 2016`**
+United States Geological Survey, Malibu CA, *Field Researcher*
+
+**`September 2014 - April 2016`**
+Natural Science Division, Pepperdine University, Malibu CA, *Undergraduate Research Assistant*
+
+## Awards/Fellowships
+
+**`2023`**
+Finalist, Awarded but declined, *Fulbright U.S. Student Program - Research Award - South Korea* (₩25,000,000)
+
+**`2021 - Present`**
+NSF Fellow, *NSF Graduate Research Fellowship Program* ($138,000)
+
+**`2019 - Present`**
+NSF-NRT Fellow, *Interdisciplinary Disease Ecology Across Scales* ($68,000)
 
 
 
@@ -55,37 +69,98 @@ Associate, *French Academy of Science*, Paris, France
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+**`2023`**
+*Manuscript in prep* - **Daniel C. Suh**, Katie Schroeder, Alexander T. Strauss. *Temperature and resource conditions jointly influence the infection of Daphnia dentifera by the fungal parasite Metschnikowia bicuspidata*
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+**`2023`**
+*Manuscript in prep* - **Daniel C. Suh**, Andrew W. Park. *Abiotic and biotic factors jointly influence the transmission of Ranavirus in larval amphibian communities*
 
-`1669`
-Lectiones opticæ.
+**`2023`**
+Alexander T. Strauss, **Daniel C. Suh**, Kate Galbraith, Sarah M. Coker, Katie Schroeder, Christopher Brandon, Elizabeth M. Warburton, Michael J. Yabsley, and Christopher A. Cleveland. *Mysterious Microsporidians: Springtime outbreaks of disease in Daphnia communities in shallow pond ecosystems.* Oecologia
 
-etc. etc. etc.
+**`2018`**
+Bucciarelli, Gary M., **Daniel Suh**, Avery Davis, Dave Roberts, Debrah Sharpton, H. Bradley Shaffer, Robert N. Fisher, and Lee B. Kats. *Assessing effects of non-native crayfish on mosquito survival.* Conservation Biology (2018).
 
-### Patents
+## Presentations
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+**`August 2023`**
+Ecological Society of America, Portland, OR - *Talk: Patterns in parasite species richness across Host Life History, Ecology, and Geography*
+
+**`August 2022`**
+Ecological Society of America, Montreal, Canada - *Talk: Temperature and resource conditions jointly influence the infection of Daphnia dentifera by the fungal parasite Metschnikowia bicuspidata*
+
+**`August 2021`**
+Ecological Society of America, Virtual - *Talk: Community composition, abundance, and environmental conditions may enhance transmission of a Ranavirus in larval amphibian communities*
+
+**`June 2021`**
+Ecology and Evolution of Infectious Diseases, Virtual - *Poster: Host community evenness and community competence can inform mechanisms in diversity-disease relationships*
+
+**`February 2021`**
+Odum School of Ecology Graduate Student Symposium, Virtual - *Talk: Species richness, species evenness, and community competence of larval amphibian communities*
+
+**`August 2020`**
+Ecological Society of America, Virtual - *Poster: Exploring the Differential Competence of Communities: Observations of Ranavirus in Larval Amphibian Communities*
+
+**`January 2020`**
+Odum School of Ecology Graduate Student Symposium, Athens GA - *Talk: Differential Competence of Communities*
+
+**`May 2016`**
+Soceity for Freshwater Science, Sacramento CA - *Poster: The impact of turbidity on the predator-prey relationship between Red Swamp Crayfish (Procambarus clarkii) and Pacific Tree Frog (Pseudacris regilla) tadpoles*
 
 
-## Occupation
+## Service
 
-`1600`
-__Royal Mint__, London
+**`January 2021 - Present`**
+Athenst Science Observer, *Author*
 
-- Warden
-- Minted coins
+**`September 2019 - Present`**
+EcoReach, *Member*
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+**`August 2022 - August 2023`**
+Graduate Student Association, *Director of Internal Operations*
+
+**`August 2021 - August 2023`**
+Graduate Program Committee, *Student Representative*
+
+**`September 2021 - May 2022`**
+Graduate Student Association, *OSE Representative*
+
+**`August 2021 - August 2022`**
+EcoReach, *Treasurer*
+
+**`January 2021 - May 2023`**
+Center for the Ecology of Infectious Diseases, *Mapping Working Group Chair*
+
+**`September 2020 - May 2021`**
+OSE Graduate Student Organization, *Treasurer*
+
+**`August 2020 - July 2021`**
+IDEAS Committee, *Graduate Student Representative*
+
+**`September 2019 - May 2020`**
+Graduate Student Association, *OSE Representative*
 
 
+## Mentorship
 
-<!-- ### Footer
+**`Spring 2023`**
+Gabriel Sullivan-Brugger, *UGA Center for Undergraduate Research Opportunities*
 
-Last updated: May 2013 -->
+**`Summer 2022`**
+Emily Landolt, *NSF Population Biology of Infectious Diseases REU*
+
+## Other Work Experience
+
+**`March 2019 - July 2019`**
+C2 Education, West Caldwell NJ, *Tutor*
+
+**`January 2018 - February 2019`**
+City Year, Philadelphia PA, *AmeriCorps Member and Team Leader*
+
+**`November 2016 - November 2017`**
+Mid Coast Hunger Prevention Program, Brunswick ME, *AmeriCorps VISTA*
+
+**`September 2012 - June 2016`**
+University Advancement, Pepperdine University, Malibu CA, *Prospect Research Assistant*
 
 
