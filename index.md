@@ -31,25 +31,25 @@ Biodiversity-disease relationships, parasite generalism, macroecology, mathemati
 **`2019 - Present`**
 __Odum School of Ecology, University of Georgia, Athens GA - Ph.D. Ecology__
 
-**`2012-2016`**
+**`2012 - 2016`**
 __Seaver College, Pepperdine University, Malibu CA - B.S. Biology__
 
 
 ## Research Experience
 
-**`August 2019 - Present`**
+**`8.2019 - Present`**
 Odum School of Ecology, UGA, Athens GA, *Graduate Student*
 
-**`April 2018 - June 2019`**
+**`4.2018 - 6.2019`**
 Department of Biostatistics, Epidemiology, and Informatics, University of Pennsylvania, Philadelphia PA, *Research Assistant*
 
-**`August 2016 - October 2016`**
+**`8.2016 - 10.2016`**
 Natural Science Division, Pepperdine University, Malibu CA, *Research Assistant*
 
-**`May 2016 - August 2016`**
+**`5.2016 - 8.2016`**
 United States Geological Survey, Malibu CA, *Field Researcher*
 
-**`September 2014 - April 2016`**
+**`9.2014 - 4.2016`**
 Natural Science Division, Pepperdine University, Malibu CA, *Undergraduate Research Assistant*
 
 ## Awards/Fellowships
@@ -83,61 +83,61 @@ Bucciarelli, Gary M., **Daniel Suh**, Avery Davis, Dave Roberts, Debrah Sharpton
 
 ## Presentations
 
-**`August 2023`**
+**`8.2023`**
 Ecological Society of America, Portland, OR - *Talk: Patterns in parasite species richness across Host Life History, Ecology, and Geography*
 
-**`August 2022`**
+**`8.2022`**
 Ecological Society of America, Montreal, Canada - *Talk: Temperature and resource conditions jointly influence the infection of Daphnia dentifera by the fungal parasite Metschnikowia bicuspidata*
 
-**`August 2021`**
+**`8.2021`**
 Ecological Society of America, Virtual - *Talk: Community composition, abundance, and environmental conditions may enhance transmission of a Ranavirus in larval amphibian communities*
 
-**`June 2021`**
+**`6.2021`**
 Ecology and Evolution of Infectious Diseases, Virtual - *Poster: Host community evenness and community competence can inform mechanisms in diversity-disease relationships*
 
-**`February 2021`**
+**`2.2021`**
 Odum School of Ecology Graduate Student Symposium, Virtual - *Talk: Species richness, species evenness, and community competence of larval amphibian communities*
 
-**`August 2020`**
+**`8.2020`**
 Ecological Society of America, Virtual - *Poster: Exploring the Differential Competence of Communities: Observations of Ranavirus in Larval Amphibian Communities*
 
-**`January 2020`**
+**`1.2020`**
 Odum School of Ecology Graduate Student Symposium, Athens GA - *Talk: Differential Competence of Communities*
 
-**`May 2016`**
+**`5.2016`**
 Soceity for Freshwater Science, Sacramento CA - *Poster: The impact of turbidity on the predator-prey relationship between Red Swamp Crayfish (Procambarus clarkii) and Pacific Tree Frog (Pseudacris regilla) tadpoles*
 
 
 ## Service
 
-**`January 2021 - Present`**
+**`1.2021 - Present`**
 Athenst Science Observer, *Author*
 
-**`September 2019 - Present`**
+**`9.2019 - Present`**
 EcoReach, *Member*
 
-**`August 2022 - August 2023`**
+**`8.2022 - 8.2023`**
 Graduate Student Association, *Director of Internal Operations*
 
-**`August 2021 - August 2023`**
+**`8.2021 - 8.2023`**
 Graduate Program Committee, *Student Representative*
 
-**`September 2021 - May 2022`**
+**`9.2021 - 5.2022`**
 Graduate Student Association, *OSE Representative*
 
-**`August 2021 - August 2022`**
+**`8.2021 - 8.2022`**
 EcoReach, *Treasurer*
 
-**`January 2021 - May 2023`**
+**`1.2021 - 5.2023`**
 Center for the Ecology of Infectious Diseases, *Mapping Working Group Chair*
 
-**`September 2020 - May 2021`**
+**`9.2020 - 5.2021`**
 OSE Graduate Student Organization, *Treasurer*
 
-**`August 2020 - July 2021`**
+**`8.2020 - 7.2021`**
 IDEAS Committee, *Graduate Student Representative*
 
-**`September 2019 - May 2020`**
+**`9.2019 - 5.2020`**
 Graduate Student Association, *OSE Representative*
 
 
@@ -151,16 +151,16 @@ Emily Landolt, *NSF Population Biology of Infectious Diseases REU*
 
 ## Other Work Experience
 
-**`March 2019 - July 2019`**
+**`3.2019 - 7.2019`**
 C2 Education, West Caldwell NJ, *Tutor*
 
-**`January 2018 - February 2019`**
+**`1.2018 - 2.2019`**
 City Year, Philadelphia PA, *AmeriCorps Member and Team Leader*
 
-**`November 2016 - November 2017`**
+**`11.2016 - 11.2017`**
 Mid Coast Hunger Prevention Program, Brunswick ME, *AmeriCorps VISTA*
 
-**`September 2012 - June 2016`**
+**`9.2012 - 6.2016`**
 University Advancement, Pepperdine University, Malibu CA, *Prospect Research Assistant*
 
 
