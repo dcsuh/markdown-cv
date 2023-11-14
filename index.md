@@ -57,6 +57,9 @@ Natural Science Division, Pepperdine University, Malibu CA, *Undergraduate Resea
 **`2023`**
 Finalist, Awarded but declined, *Fulbright U.S. Student Program - Research Award - South Korea* (₩25,000,000)
 
+**`2023`**
+Awardee, *OSE Golley Memorial Scholarship* ($1,000)
+
 **`2021 - Present`**
 NSF Fellow, *NSF Graduate Research Fellowship Program* ($138,000)
 
@@ -144,10 +147,10 @@ Graduate Student Association, *OSE Representative*
 ## Mentorship
 
 **`Spring 2023`**
-Gabriel Sullivan-Brugger, *UGA Center for Undergraduate Research Opportunities*
+Gabriel S., *UGA Center for Undergraduate Research Opportunities*
 
 **`Summer 2022`**
-Emily Landolt, *NSF Population Biology of Infectious Diseases REU*
+Emily L., *NSF Population Biology of Infectious Diseases REU*
 
 ## Other Work Experience
 
