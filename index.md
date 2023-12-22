@@ -114,7 +114,7 @@ Soceity for Freshwater Science, Sacramento CA - *Poster: The impact of turbidity
 ## Service
 
 **`1.2021 - Present`**
-Athenst Science Observer, *Author*
+Athens Science Observer, *Author*
 
 **`9.2019 - Present`**
 EcoReach, *Member*
